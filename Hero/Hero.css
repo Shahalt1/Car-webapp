@@ -1,0 +1,12 @@
+img {
+  background-color: black;
+}
+
+ul li {
+  background: url(https://www.computerhope.com/issues/pictures/bullet.gif)
+    no-repeat top left;
+  background-position: 0 5px;
+  line-height: 1.5625;
+  padding: 0 0 4px 30px;
+  margin-left: 1em;
+}
